@@ -1,0 +1,17 @@
+{
+  "name": "war",
+  "version": "1.0.0",
+  "description": "A simulation of the card game War.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fred Strauss",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "enumify": "^1.0.4",
+    "readline-sync": "^1.4.9",
+    "shuffle": "^0.2.2"
+  }
+}
